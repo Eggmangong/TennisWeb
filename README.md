@@ -28,6 +28,6 @@ This **MVP (Minimum Viable Product)** demonstrates how **data-driven recommendat
 | **Backend** | Django REST Framework |
 | **Database** | MySQL / PostgreSQL |
 | **Version Control** | GitHub |
-| **Deployment** | Vercel / Render |
+| **Deployment** | Ubuntu |
 
 ---
